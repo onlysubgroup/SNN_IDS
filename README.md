@@ -6,4 +6,4 @@ Norse MNIST: https://colab.research.google.com/github/norse/notebooks/blob/maste
 
 Tonic - How do I wrap my own recordings?: https://tonic.readthedocs.io/en/latest/how-tos/wrapping_own_data.html
 
-Related Paper: https://arxiv.org/abs/2011.09144d
+Related Paper: https://arxiv.org/abs/2011.09144
