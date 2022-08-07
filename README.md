@@ -1,5 +1,5 @@
 # SNN_IDS
-Trying to build a spiking-based Intrusion Detection System.
+Trying to build a spiking-based Intrusion Detection System using Netflow-Dataset(s).
 
 Links:
 Norse MNIST: https://colab.research.google.com/github/norse/notebooks/blob/master/mnist_classifiers.ipynb
